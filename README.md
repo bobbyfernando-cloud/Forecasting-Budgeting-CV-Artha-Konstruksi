@@ -6,6 +6,7 @@ Performed financial ratio, variance, and scenario analyses to identify business 
 Identified a gross margin breakeven point of 10.0% and a minimum collection rate threshold of 88.5%, supporting liquidity and profitability improvement initiatives.
 
 Link content :
+
 Finance Report https://docs.google.com/spreadsheets/d/1nOvoVsk38XhBNsgQSR1iggQEv1ZrDQC3/edit?usp=drive_link&ouid=102534377087733776407&rtpof=true&sd=true
 
 Sensitivity Analisis https://docs.google.com/spreadsheets/d/18Qhm5yrjd3dbUmrF2rlzpOeNw6NPAf0r/edit?usp=drive_link&ouid=102534377087733776407&rtpof=true&sd=true
